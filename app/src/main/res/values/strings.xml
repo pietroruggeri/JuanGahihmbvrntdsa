@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteLogin-AndroidJSon.com</string>
+    <string name="register_from_here">Register From here</string>
+    <string name="login_successfully_email">Login SuccessFully, Email =</string>
+    <string name="logout">LOGOUT</string>
+    <string name="not_log_in_register_from_here">Not Log IN | Register From here</string>
+    <string name="log_in">Log IN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sqlite_user_login_screen">SQLite User Login Screen</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sqlite_user_registration">SQLite User Registration</string>
+</resources>
